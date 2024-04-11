@@ -1,0 +1,10 @@
+{
+  "name": "PySample",
+  "version": "1.0.0",
+  "authors": ["Metzger, Liam"],
+  "description": "A sample bot with python",
+  "homepage": "https://github.com/colllijo",
+  "countryCodes": ["ch"],
+  "platform": "python interpreter",
+  "programmingLang": "python"
+}
